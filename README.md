@@ -110,8 +110,6 @@ If you use the AOF Skeleton package, we appreciate it if you cite the following 
   year={2013},
   publisher={Springer}
 }
-```
-```
 @inproceedings{dimitrov2003flux,
   title={Flux invariants for shape},
   author={Dimitrov, Pavel and Damon, James N and Siddiqi, Kaleem},
