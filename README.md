@@ -101,7 +101,7 @@ If you are new to git, you can learn more about it [here](https://git-scm.com/do
 ## References
 If you use the AOF Skeleton package, we appreciate it if you cite the following papers:
 
-````
+```
 @incollection{rezanejad2013flux,
   title={Flux graphs for 2D shape analysis},
   author={Rezanejad, Morteza and Siddiqi, Kaleem},
