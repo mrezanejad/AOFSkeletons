@@ -99,8 +99,13 @@ If you are new to git, you can learn more about it [here](https://git-scm.com/do
 <br>
 
 ## References
-_(add descriptions later)_
+If you use the AOF Skeleton package, we appreciate it if you cite the following papers:
 
-- [Hamilton Jacobi Skeletons](http://www.cim.mcgill.ca/~shape/publications/ijcv02.pdf) 
-- [Medial Representations (Ch. 4)](https://mcgill.worldcat.org/title/medial-representations-mathematics-algorithms-and-applications/oclc/288474362&referer=brief_results)
-- [Pavel Dimitrov M.Sc. Thesis (Flux Invariants for Shape)](https://mcgill.worldcat.org/title/flux-invariants-for-shape/oclc/316112649&referer=brief_results)
+- @incollection{rezanejad2013flux,
+  title={Flux graphs for 2D shape analysis},
+  author={Rezanejad, Morteza and Siddiqi, Kaleem},
+  booktitle={Shape Perception in Human and Computer Vision},
+  pages={41--54},
+  year={2013},
+  publisher={Springer}
+}
