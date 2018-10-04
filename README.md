@@ -17,7 +17,7 @@ git clone https://github.com/gndowns/AOFSkeletons.git
 This will create a directory `AOFSkeletons/` containing all of the code seen here.
 <br>
 ## Usage
-To compute the Skeleton of a single image, one can use our matlab function `generate_skeletons`. Navigate to the downloaded `AOFSkeletons/` folder and from the matlab console run:
+To compute the Skeleton of a single image, one can use our matlab function 'generate_skeletons`. Navigate to the downloaded `AOFSkeletons/` folder and from the matlab console run:
 ```
 >> generate_skeletons('path/to/your/image.png')
 ```
