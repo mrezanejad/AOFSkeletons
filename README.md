@@ -101,7 +101,8 @@ If you are new to git, you can learn more about it [here](https://git-scm.com/do
 ## References
 If you use the AOF Skeleton package, we appreciate it if you cite the following papers:
 
-- @incollection{rezanejad2013flux,
+````
+@incollection{rezanejad2013flux,
   title={Flux graphs for 2D shape analysis},
   author={Rezanejad, Morteza and Siddiqi, Kaleem},
   booktitle={Shape Perception in Human and Computer Vision},
@@ -109,3 +110,15 @@ If you use the AOF Skeleton package, we appreciate it if you cite the following 
   year={2013},
   publisher={Springer}
 }
+```
+```
+@inproceedings{dimitrov2003flux,
+  title={Flux invariants for shape},
+  author={Dimitrov, Pavel and Damon, James N and Siddiqi, Kaleem},
+  booktitle={Computer Vision and Pattern Recognition, 2003. Proceedings. 2003 IEEE Computer Society Conference on},
+  volume={1},
+  pages={I--I},
+  year={2003},
+  organization={IEEE}
+}
+```
