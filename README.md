@@ -120,6 +120,10 @@ If you use the AOF Skeleton package, we appreciate it if you cite the following 
   organization={IEEE}
 }
 ```
+
+## Contact
+For any question regarding this package, please contact morteza@cim.mcgill.ca
+
 ## License
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
