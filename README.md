@@ -12,7 +12,7 @@ In both cases, the medial axis is only computed in white regions; i.e. &Omega; i
 ## Setup
 To download the code, open a terminal and type:
 ```
-https://github.com/mrezanejad/AOFSkeletons.git
+git clone https://github.com/mrezanejad/AOFSkeletons.git
 ```
 This will create a directory `AOFSkeletons/` containing all of the code seen here.
 <br>
