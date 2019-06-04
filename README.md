@@ -119,6 +119,25 @@ If you use the AOF Skeleton package, we appreciate it if you cite the following 
   year={2003},
   organization={IEEE}
 }
+@article{Siddiqi:2002:HS:598432.598510,
+ author = {Siddiqi, Kaleem and Bouix, Sylvain and Tannenbaum, Allen and Zucker, Steven W.},
+ title = {Hamilton-Jacobi Skeletons},
+ journal = {Int. J. Comput. Vision},
+ issue_date = {July-August 2002},
+ volume = {48},
+ number = {3},
+ month = jul,
+ year = {2002},
+ issn = {0920-5691},
+ pages = {215--231},
+ numpages = {17},
+ url = {https://doi.org/10.1023/A:1016376116653},
+ doi = {10.1023/A:1016376116653},
+ acmid = {598510},
+ publisher = {Kluwer Academic Publishers},
+ address = {Norwell, MA, USA},
+ keywords = {2D and 3D skeletons, Hamiltonian systems, eikonal equation, flux and divergence, shape analysis},
+} 
 ```
 
 ## Contact
